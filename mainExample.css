@@ -1,0 +1,25 @@
+.header {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .header__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .light-background {
+    background-color: #FFF7F4;
+  }
+  
+  .nav__item {
+    margin: 0 15px;
+    color: #373737;
+    text-decoration: none;
+  }
+  .nav__item:last-child {
+    padding: 10px 16px;
+    border-radius: 6px;
+    border: 1px solid #373737;
+  }
+  

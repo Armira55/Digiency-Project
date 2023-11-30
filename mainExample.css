@@ -1,3 +1,27 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  h1, h2, h3, h4, p {
+    margin: 0;
+  }
+  
+  .container {
+    max-width: 1178px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+  .block {
+    padding-top: 120px;
+    padding-bottom: 120px;
+  }
+
 .header {
     padding-top: 30px;
     padding-bottom: 30px;

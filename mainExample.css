@@ -306,3 +306,6 @@
   text-align: center;
   color: #fff;
 }
+.block--testimonials__swiper {
+  position: relative;
+}
